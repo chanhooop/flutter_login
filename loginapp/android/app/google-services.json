@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "430322338153",
+    "project_id": "login-app-7a303",
+    "storage_bucket": "login-app-7a303.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430322338153:android:1e85443e5a87e3956f15f8",
+        "android_client_info": {
+          "package_name": "com.example.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430322338153-73rkmpkrssv2898v0iss1c743oir1nbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginapp",
+            "certificate_hash": "9102358cb874646af54b9e0aa644ee91a42ca9b5"
+          }
+        },
+        {
+          "client_id": "430322338153-8u6m7kd57kqelh8shh17m60b05eageuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEwTHzwrHT5d2kwwz6q2xUFVhUwLuwffk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430322338153-8u6m7kd57kqelh8shh17m60b05eageuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
